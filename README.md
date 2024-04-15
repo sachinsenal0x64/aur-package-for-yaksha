@@ -1,6 +1,4 @@
-# aur-package-for-yaksha
-
-> Yaksha https://github.com/YakshaLang/Yaksha
+# Aur Package For [yaksha](https://github.com/YakshaLang/Yaksha)
 
 <br>
 
