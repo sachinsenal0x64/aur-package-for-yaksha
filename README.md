@@ -1,12 +1,12 @@
 # Aur Package For [yaksha](https://github.com/YakshaLang/Yaksha)
 
-<br>
-
 📦 Programming language with off-side rule syntax, and YakshaLisp sublanguage.
 
 <br>
 
 > First install https://github.com/Morganamilo/paru
+
+<br>
 
 ### Install
 
