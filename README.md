@@ -6,7 +6,6 @@
 
 > First install https://github.com/Morganamilo/paru
 
-<br>
 
 ### Install
 
