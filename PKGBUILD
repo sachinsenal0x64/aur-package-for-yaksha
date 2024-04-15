@@ -12,7 +12,7 @@ license=('GPL-3.0')
 provides=('yaksha')
 conflicts=('yaksha')
 source=("https://github.com/YakshaLang/Yaksha/releases/download/vP20240414.f76ff03/yaksha_vP20240414.f76ff03_linux-x86_64.tar.gz")
-sha256sums=('SKIP')
+sha256sums=('67b22d12acb3adc6eaf3d3350154c9442032b873ffbd23a0de3154ec16472b78')
 depends=('zig')
 
 prepare() {
